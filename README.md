@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-👩‍💻Flutter Developer |  🚀 Full Stack Developer | 🌐 App Developer | 🤝 Proficiency in API Integration 
+Software Engineer | Full Stack Developer | Flutter Mobile Application | Node Js Developer | Proficiency in API Integration
 
 👩‍💻[email](mailto:m.mohsin00933@gmail.com) | 🤝[LinkedIn](https://link/) 
 
