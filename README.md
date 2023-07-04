@@ -4,7 +4,7 @@
 
 Software Engineer | Full Stack Developer | Flutter Mobile Application | Node Js Developer | Proficiency in API Integration
 
-👩‍💻[email](mailto:m.mohsin00933@gmail.com) | 🤝[LinkedIn](https://link/) 
+👩‍💻[email](mailto:m.mohsin00933@gmail.com) | 🤝[LinkedIn](https://www.linkedin.com/in/fahad-ali-b23a73205) 
 
 ## Skills
 
