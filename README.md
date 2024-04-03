@@ -10,9 +10,12 @@ Software Engineer | Full Stack Developer | Flutter Mobile Application | Node Js 
 
 ![Flutter](https://img.shields.io/badge/Flutter-Expert-2BB7F6?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?logo=dart)
+<!---
 ![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-Expert-000000?logo=express)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?logo=javascript)
+-->
+
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-Expert-FFC300?logo=rest)
 ![Front-End Development](https://img.shields.io/badge/Front--End%20Development-Expert-1380C3?logo=frontend)
 ![Debugging](https://img.shields.io/badge/Debugging-Expert-9B111E?logo=debugging)
