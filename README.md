@@ -1,10 +1,18 @@
-# Hi there, I'm Fahad Ali 👋
+<h1 align="center">Hi 👋, I'm Fahad Ali</h1>
+<h3 align="center">Flutter Developer</h3>
 
-## 🚀 About Me
+- 🔭 I’m currently working at **Zemfar**
 
-Software Engineer | Flutter App Developer | Android | IOS | Cross-Platform | API Integration | Firebase | Google Api's Integration | Localization | Push Notifications | Provider State Management | Getx State Management | Clean Code
+- 💬 Ask me about **Flutter | Android | IOS | Cross-Platform | Design-to-Code | Get X | Provider | API Integration | Firebase | Localization | Map Api Integration | Push Notifications | Clean Code | Error Handling**
 
-👩‍💻[email](mailto:m.mohsin00933@gmail.com) | 🤝[LinkedIn](https://www.linkedin.com/in/fahad-ali-b23a73205) 
+- 📫 How to reach me **m.mohsin00933@gmail.com | +92 321 2358217**
+
+- 📄 Check my linkedin [https://pk.linkedin.com/in/fahad-ali-b23a73205](https://pk.linkedin.com/in/fahad-ali-b23a73205)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/fahad-ali-b23a73205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad-ali-b23a73205" height="30" width="40" /></a>
+</p>
 
 ## Skills
 
