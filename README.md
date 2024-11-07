@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fahad Ali</h1>
-<h3 align="center">Flutter Developer</h3>
+<h1 align="left">Hi 👋, I'm Fahad Ali</h1>
+<h3 align="left">Flutter Developer</h3>
 
 - 🔭 I’m currently working at **Zemfar**
 
@@ -34,6 +34,4 @@
 ## 🏆 Achievements/Tasks
 - Successfully debugged and developed app from scratch
 
-## 📈 Badges
 
-- [![GitHub followers](https://img.shields.io/github/followers/FahadAli2001?style=social)](https://github.com/FahadAli2001)
