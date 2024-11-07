@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Software Engineer | Full Stack Developer | Flutter Mobile Application | Node Js Developer | Proficiency in API Integration
+Software Engineer | Flutter App Developer | Android | IOS | Cross-Platform | API Integration | Firebase | Google Api's Integration | Localization | Push Notifications | Provider State Management | Getx State Management | Clean Code
 
 👩‍💻[email](mailto:m.mohsin00933@gmail.com) | 🤝[LinkedIn](https://www.linkedin.com/in/fahad-ali-b23a73205) 
 
