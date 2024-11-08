@@ -32,6 +32,20 @@
  -->
 
 ## 🏆 Achievements/Tasks
-- Successfully debugged and developed app from scratch
+**- Developed User-Centric Mobile Apps:** Built dynamic, intuitive Flutter applications that prioritize seamless user experiences, improving usability and engagement.
+
+**- UI/UX Design Expertise:** Designed and implemented polished, responsive user interfaces, ensuring smooth and visually appealing experiences across devices.
+
+**- API Integration:** Integrated complex APIs to enhance app functionality, enabling features like real-time data updates and dynamic content.
+
+**- Firebase Integration:** Set up Firebase for features like authentication, cloud storage, and real-time databases, enabling scalable app functionality.
+
+**- Google Maps Integration:** Integrated Google Maps for location-based services, enhancing user navigation and geospatial features in apps.
+
+**- State Management with Provider:** Utilized Provider for efficient and scalable state management, ensuring a clean and maintainable codebase.
+
+**- Push Notifications Setup:** Configured reliable push notifications, ensuring timely and personalized communication with users.
+
+**- Cross-Platform Development:** Delivered high-performance apps for both iOS and Android using a single Flutter codebase, saving time and resources.
 
 
