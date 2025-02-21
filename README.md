@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Fahad Ali</h1>
 <h3 align="left">Flutter Developer</h3>
 
-- 🔭 I’m currently working at **Zemfar** as **Flutter-Developer**
+- 🔭 I’m currently working at **Freelancer** as **Flutter-Developer**
 
 - 💬 Ask me about **Flutter | Android | IOS | Cross-Platform | Design-to-Code | Get X | Provider | API Integration | Firebase | Localization | Map Api Integration | Push Notifications | GitHub | Clean Code | Error Handling**
 
